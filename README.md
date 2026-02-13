@@ -61,8 +61,7 @@ advanced-pdf-compressor/
 ├── style.css
 ├── pdf.js
 ├── pdf.worker.js
-├── pdf-lib.min.js
-
+└── pdf-lib.min.js
 ```
 
 ---
