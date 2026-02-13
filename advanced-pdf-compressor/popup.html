@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>XPDF Advanced PDF Compressor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="badge-support">
+  <a href="https://ko-fi.com/ashraf07" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" style="border:0;height:20px;">
+  </a>
+</div>
+
+<h2 id="titl">XPDF Compressor by Xpapillon<small id="vr"> v1.0</small>
+</h2>
+<h4>Compress PDF files directly in your browser</h4>
+<hr>
+
+<div id="ops">
+    <input type="file" id="pdfInput" accept="application/pdf">
+    <div class="row">
+    <select id="level">
+        <option value="low">Low Compression (Best Quality)</option>
+        <option value="medium" selected>Medium Compression</option>
+        <option value="extreme">Extreme Compression (Small Size)</option>
+    </select>
+   </div>
+    <div class="row">
+        <button id="compressBtn">Compress PDF</button>
+        <button id="downloadBtn" disabled>Download</button>
+    </div>
+
+    <div id="status"></div>
+</div>
+
+<script src="pdf.js"></script>
+<script src="pdf-lib.min.js"></script>
+<script src="popup.js"></script>
+</body>
+</html>
