@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/X-papillon/XPDF-Advanced-PDF-Compressor/refs/heads/main/advanced-pdf-compressor/128.png" width="50"/> XPDF Advanced PDF Compressor (Chrome Extension)
+# <img src="https://images2.imgbox.com/6e/d9/rff4K0sS_o.png" width="50"/> XPDF Advanced PDF Compressor (Chrome Extension)
 
 Advanced PDF Compressor is a powerful Chrome Extension that compresses PDF files directly in your browser using intelligent image recompression. It provides strong compression similar to professional tools while keeping full privacy and offline functionality.
 
@@ -128,9 +128,9 @@ If you find this project useful:
 ## 📸 Screenshots
 
 <p>
-  <img src="https://raw.githubusercontent.com/X-papillon/XPDF-Advanced-PDF-Compressor/refs/heads/main/advanced-pdf-compressor/scrn1.jpg" width="400"/>
+  <img src="https://images2.imgbox.com/5d/7b/cdBJWs4X_o.jpg" width="400"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/X-papillon/XPDF-Advanced-PDF-Compressor/refs/heads/main/advanced-pdf-compressor/scrn2.jpg" width="400"/>
+  <img src="https://images2.imgbox.com/59/4d/C9ULsKsC_o.jpg" width="400"/>
 </p>
 
 ---
